@@ -1,7 +1,7 @@
 {
   "name": "bootflat",
   "description": "bootflat 2.0.0 packaged for meteor",
-  "homepage": "https://github.com/mangasocial/meteor-bootflat",
+  "homepage": "https://github.com/elie222/meteor-bootflat",
   "author": "Eliezer Steinbock",
   "version": "0.0.1",
   "git": "https://github.com/elie222/meteor-bootflat.git",
