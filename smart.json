@@ -3,7 +3,7 @@
   "description": "bootflat 2.0.0 packaged for meteor",
   "homepage": "https://github.com/elie222/meteor-bootflat",
   "author": "Eliezer Steinbock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/elie222/meteor-bootflat.git",
   "packages": { }
 }
